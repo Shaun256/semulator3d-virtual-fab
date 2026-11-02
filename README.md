@@ -2,7 +2,7 @@
 
 Individual course project, EE5312 VLSI Technology, IIT Madras (Oct 2026)
 
-📄 **[Read the full report (PDF)](report.pdf)**
+📄 **[Read the full report (PDF)](Report.pdf)**
 
 3D process models built in Coventor SEMulator3D at 1 nm voxel resolution.
 
